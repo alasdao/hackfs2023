@@ -26,3 +26,6 @@ Tuesday
 - https://github.com/cluelessuk
 - https://github.com/drand/tlock-js
 - https://timevault.drand.love/
+
+CluEleSs — Today at 6:25 PM
+Hi everyone - I've attached my slides for the drand workshop and they can also be retrieved via IPFS with the CID QmRdBcTFYPoKsStZpKtqpjwsrm95LvpzuUfWNHTKw5meqJ 
