@@ -16,7 +16,6 @@ Hack stuff
 - https://linktr.ee/filecoinvm local runtime / chain
 - https://github.com/drand/drand need try
 - https://github.com/n0-computer/iroh ipfs js
-- https://research.protocol.ai/groups/cryptoeconlab/ its in golang but what is it?
 
 
 Tuesday
