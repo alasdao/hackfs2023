@@ -21,9 +21,9 @@ Hack stuff
 
 Tuesday
 
-drand 🛠 using drand and timelock encryption - Patrick McClurg
-https://www.youtube.com/watch?v=qblONRshZjA
-curl --silent api.drand.sh/public/latest|jq
-https://github.com/cluelessuk
-https://github.com/drand/tlock-js
-https://timevault.drand.love/
+- drand 🛠 using drand and timelock encryption - Patrick McClurg
+- https://www.youtube.com/watch?v=qblONRshZjA
+- curl --silent api.drand.sh/public/latest|jq
+- https://github.com/cluelessuk
+- https://github.com/drand/tlock-js
+- https://timevault.drand.love/
