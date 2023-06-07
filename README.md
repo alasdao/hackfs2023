@@ -11,9 +11,9 @@ Accelerator, ecosystem etc.
 - https://research.protocol.ai/groups/cryptoeconlab/
 
 Hack stuff
+- https://linktr.ee/filecoinvm 
 - https://sp.filecoin.io/
 - https://www.cookbook.dev/ searchable smart contracts library
-- https://linktr.ee/filecoinvm local runtime / chain
 - https://github.com/drand/drand need try
 - https://github.com/n0-computer/iroh ipfs js
 
